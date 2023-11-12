@@ -1,0 +1,126 @@
+1	Group A - Qatar 0-2 Ecuador	Enner Valencia (16' P, 31')	November 20
+
+2	Group B - England 6-2 Iran	England - Jude Bellingham (35'), Bukayo Saka (43', 62'), Raheem Sterling (45+1'), Marcus Rashford (71'), Jack Grealish (90'); Iran - Mehdi Taremi (65', 90+13' P)	November 21
+
+3	Group A - Senegal 0-2 Netherlands	Cody Gakpo (84'), Davy Klaassen (90+9')	November 21
+
+4	Group B - USA 1-1 Wales	  USA - Timothy Weah (36'); Wales - Gareth Bale (82' P)	November 22
+
+5	Group C - Argentina 1-2 Saudi Arabia	Argentina - Lionel Messi (10' P); Saudi Arabia - Saleh Al-Shehri (48'), Salem Aldawsari (53')	November 22
+
+6	Group D - Denmark 0-0 Tunisia	-	November 22
+
+7	Group C - Mexico 0-0 Poland	-	November 22
+
+8	Group D - France 4-1 Australia	France - Adrien Rabiot (27'), Olivier Giroud (32', 71'), Kylian Mbappe (68'); Australia - Craig Goodwin (9')	November 23
+
+9	Group F - Morocco 0-0 Croatia	-	November 23
+
+10	Group E - Germany 1-2 Japan	Germany - Ikay Gundogan (33' P); Japan - Ritsu Doan (75'), Takuma Asano (83')	November 23
+
+11	Group E - Spain 7-0 Costa Rica	Dani Olmo (11'), Marco Asensio (21'), Ferran Torres (31' P, 54'), Gavi (74'), Carlos Soler (90'), Alvaro Morata (90+2')	November 23
+
+12	Group F - Belgium 1-0 Canada	Michy Batshuayi (44')	November 24
+
+13	Group G - Switzerland 1-0 Cameroon	Breel Embolo (48')	November 24
+
+14	Group H - Uruguay 0-0 South Korea	-	November 24
+
+15	Group H - Portugal 3-2 Ghana	Portugal - Cristiano Ronaldo (65' P), Joao Felix(78'), Rafael Leao(80'); Ghana - Andre Ayew (73'), Osman Bukari (89')	November 24
+
+16	Group G - Brazil 2-0 Serbia	Richarlison (62', 73')	November 25
+
+17	Group B - Wales 0-2 Iran	Rouzbeh Cheshmi (90+8'), Ramin Rezaeian (90+11')	November 25
+
+18	Group A - Qatar 1-3 Senegal	Qatar - Mohammed Muntari (78'); Senegal - Boulaye Dia (41'), Famara Diedhiou (48'), Bamba Dieng (84')	November 25
+
+19	Group A - Netherlands 1-1 Ecuador	Netherlands - Cody Gakpo (6'); Ecuador - Enner Valencia (49')	November 25
+
+20	Group B - England 0-0 USA	-	November 26
+
+21	Group D - Tunisia 0-1 Australia	Mitchell Duke (23')	November 26
+
+22	Group C - Poland 2-0 Saudi Arabia	Piotr Zielinski (39'), Robert Lewandowski (82')	November 26
+
+23	Group D - France 2-1 Denmark	France - Kylian Mbappe (61', 86'); Denmark - Andreas Christensen (68')	November 26
+
+24	Group C - Argentina 2-0 Mexico	Lionel Messi (64'), Enzo Fernandez (87')	November 27
+
+25	Group E - Japan 0-1 Costa Rica	Keysher Fuller (81')	November 27
+
+26	Group F - Belgium 0-2 Morocco	Abdelhamid Sabiri (73'), Zakaria Aboukhlal (90+2')	November 27
+
+27	Group F - Croatia 4-1 Canada	Croatia - Andrej Kramaric (36', 70'), Marko Livaja (44'), Lovro Majer (90+4'); Canada - Alphonso Davies (2')	November 27
+
+28	Group E - Spain 1-1 Germany	Spain - Alvaro Morata (62'); Germany - Niclas Füllkrug (83')	November 28
+
+29	Group G- Cameroon 3-3 Serbia	Cameroon - Jean-Charles Castelletto (29'), Vincent Aboubakar (63'), Eric Choupo-Moting (66'); Serbia - Strahinja Pavlovic (45+1'), Sergej Milinkovic-Savic (45+3'), Aleksandar Mitrovic (53')	November 28
+
+30	Group H - South Korea 2-3 Ghana	South Korea - Cho Gue-sung (58', 61'); Ghana - Mohammed Salisu (24'), Mohammed Kudus (34', 68')	November 28
+
+31	Group G - Brazil 1-0 Switzerland	Casemiro (83')	November 28
+
+32	Group H - Portugal 2-0 Uruguay*	Bruno Fernandes (54', 90+3')	November 29
+
+33	Group A - Ecuador 1-2 Senegal	Senegal - Ismaila Sarr (44'), Kalidou Koulibaly (70'); Ecuador - Moises Caicedo (67')	November 29
+
+34	Group A - Netherlands 2-0 Qatar	Cody Gakpo (26'), Frenkie De Jong (49')	November 29
+
+35	Group B - Iran 0-1 USA	Christian Pulisic (38')	November 30
+
+36	Group B - Wales 0-3 England	Marcus Rashford (50', 68'), Phil Foden (51')	November 30
+
+37	Group D - Tunisia 1-0 France	Wahbi Khazri (58')	November 30
+
+38	Group D - Australia 1-0 Denmark	Mathew Leckie (60')	November 30
+
+39	Group C - Poland 0-2 Argentina	Alexis Mac Allister (46'), Julian Alvarez (67')	December 1
+
+40	Group C - Saudi Arabia 1-2 Mexico	Mexico - Henry Martin (47'), Luis Chavez (52'); Saudi Arabia - Salem Aldawsari (90+5')	December 1
+
+41	Group F - Canada 1-2 Morocco	Morocco - Hakim Ziyech (4'), Youssef En-Nesyri (23'); Canada - Nayef Aguerd (40' OG)	December 1
+
+42	Group F - Croatia 0-0 Belgium	-	December 1
+43	Group E - Japan 2-1 Spain	Spain - Alvaro Morata (11'); Japan - Ritsu Doan (48'), Ao Tanaka (51')	December 2
+
+44	Group E - Costa Rica 2-4 Germany	Germany - Serge Gnabry (10'), Kai Havertz (73', 85'), Niclas Fullkrug (89'); Costa Rica - Yeltsin Tejeda (58'), Juan Pablo Vargas (70')	December 2
+
+45	Group H - Ghana 0-2 Uruguay	Giorgian de Arrascaeta (26', 32')	December 2
+
+46	Group H - South Korea 2-1 Portugal	South Korea - Kim Young-gwon (27'), Hwang Hee-chan (90+1'); Portugal - Ricardo Horta (5')	December 2
+
+47	Group G - Cameroon 1-0 Brazil	Vincent Aboubakar (90+2')	December 3
+
+48	Group G - Serbia 2-3 Switzerland	Serbia - Aleksandar Mitrovic (26'), Dusan Vlahovic (35'); Switzerland - Xherdan Shaqiri (20'), Breel Embolo (44'), Remo Freuler (48')	December 3
+
+49	Round of 16 - Netherlands 3-1 USA	Netherlands - Memphis Depay (10'), Daley Blind (45+1'), Denzel Dumfries (81'); USA - Haji Wright (76')	December 3
+
+50	Round of 16 - Argentina 2-1 Australia	Argentina - Lionel Messi (35'), Julian Alvarez (57'); Australia - Enzo Fernandez (OG 77')	December 4
+
+51	Round of 16 - France 3-1 Poland	France - Olivier Giroud (44'), Kylian Mbappe (74', 90+1'); Poland - Robert Lewandowski (P 90+9')	December 4
+
+52	Round of 16 - England 3-0 Senegal	Jordan Henderson (38'), Harry Kane (45+3'), Bukayo Saka (57')	December 5
+
+53	Round of 16 - Japan 1-1 Croatia (1-3 on penalties)	Japan - Daizen Maeda (43'); Croatia - Ivan Perisic (55')	December 5
+
+54	Round of 16 - Brazil 4-1 South Korea	Brazil - Vinicius Jr (7'), Neymar (P 13'), Richarlison (29'), Lucas Paqueta (36'); South Korea - Paik Seung-ho (76')	December 6
+
+55	Round of 16 - Morocco 0-0 Spain (3-0 on penalties)	-	December 6
+
+56	Round of 16 - Portugal 6-1 Switzerland	Portugal - Goncalo Ramos (17', 51', 66'), Pepe (33'), Raphael Guerreiro (55'), Rafael Leao (90+2'); Switzerland - Manuel Akanji (58')	December 7
+
+57	Quarterfinal - Croatia 1-1 Brazil (4-2 on penalties)	Brazil - Neymar (105+1'); Croatia - Bruno Petkovic (117')	December 9
+
+58	Quarterfinal - Netherlands 2-2 Argentina (3-4 on penalties)	Netherlands - Wout Weghorst (83', 90+11'), ; Argentina - Nahuel Molina (35'), Lionel Messi (P 73')	December 10
+
+59	Quarterfinal - Morocco 1-0 Portugal	Youssef En-Nesyri (42')	December 10
+
+60	Quarterfinal - England 1-2 France	France - Aurelien Tchouameni (17'), Olivier Giroud (78'); England - Harry Kane (P 54')	December 11
+
+61	Semifinal - Argentina 3-0 Croatia	Lionel Messi (P 34'), Julian Alvarez (39', 69')	December 14
+
+62	Semifinal - France 2-0 Morocco	Theo Hernandez (5'), Randal Kolo Muani (79')	December 15
+
+63	Third-place playoff: Croatia 2-1 Morocco	Croatia - Josko Gvardiol (7'), Mislav Orsic (42'); Morocco - Achraf Dari (9')	December 17
+
+64	FINAL: Argentina 3-3 France (4-2 on penalties)	Argentina - Lionel Messi (23' P, 108'), Angel Di Maria (36'); France - Kylian Mbappe (80' P, 81', 117')
